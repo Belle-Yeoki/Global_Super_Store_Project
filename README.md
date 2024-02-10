@@ -93,7 +93,7 @@ For the least profitable city in the United States, explore city-specific strate
 Customer Segmentation:
 Further segment and analyze customer behavior, especially focusing on the most valuable customers. Tailor marketing or engagement strategies to retain and potentially expand relationships with these high-value clients.
 
-In summary, the data analysis points to significant insights. The United States led in profits, while Copiers, Machines, and Tables had the highest average shipping costs. In Australia, Copiers showed the highest average profit. Nigeria faced a notable profit decline due to high shipping costs. Southeast Asia's least profitable sub-category was Furnishings, with Thailand experiencing the highest loss. In the United States, Portland had the lowest average profit, primarily attributed to exorbitant shipping costs. The top five valuable customers made substantial purchases in specific product categories, offering strategic insights for the Global Superstore's operations.
+
 
 
 
