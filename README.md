@@ -38,8 +38,9 @@ I began by retrieving the dataset from the provided link and thoroughly examined
  
 ## Modelling
 Because i have supported this data with new tables there was a need to connect them based on relationship.
-Model                    |  Calendar-Table
-:-----------------------:|:----------------:
+The model is a star schemer
+Model                    |     Calendar-Table
+:-----------------------:|:--------------------------:
 ![](DATAMODEL.png)       |    ![](CALENDARTABLE.png)
 
 ## Visualization
@@ -75,7 +76,8 @@ DASH BOARD SALES REPORT 2
 •	 The low average profit in Portland can be attributed to the high shipping costs. A comparison of discount costs and shipping fees revealed that approximately $571.91 was spent on shipping, significantly outweighing the discount costs of about $0.30.
 
 •	- The top five most valuable customers include Tom Ashbrook, making the highest purchases from Copiers, followed by Tamara Chand with the highest Copiers purchases as well. Greg Tran leads in purchases from Chairs, Christopher Constant in Copiers, and Sean Miller in Accessories.
-## Recommendation
+## Summary/Recommendation
+In summary, the data analysis points to significant insights. The United States led in profits, while Copiers, Machines, and Tables had the highest average shipping costs. In Australia, Copiers showed the highest average profit. Nigeria faced a notable profit decline due to high shipping costs. Southeast Asia's least profitable sub-category was Furnishings, with Thailand experiencing the highest loss. In the United States, Portland had the lowest average profit, primarily attributed to exorbitant shipping costs. The top five valuable customers made substantial purchases in specific product categories, offering strategic insights for the Global Superstore's operations.
 
 Given the comprehensive analysis conducted on the dataset, here are some recommendations:
 
