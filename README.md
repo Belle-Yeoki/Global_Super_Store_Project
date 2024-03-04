@@ -10,7 +10,7 @@ Link to the data Set[here](GlobalSuperstore - Capstone.xlsx - Google Sheets)
 
 ## Problem Statement
 The aim of this project is to analyze the dataset and provide answers to the following questions;
-Question1
+
 1.  What are the three countries that generated the highest total profit for Global Super Store in the year 2014.
 2.  For each of these countries find the three products with the highest total profit, specifically what are the product name and total profit for each product?
 3.  Identify the three-sub category with the highest average shipping cost in United States.
@@ -34,11 +34,10 @@ The following Power BI features were incorporated:
 - Buttons
 
 ## Data Transformation
-I began by retrieving the dataset from the provided link and thoroughly examined the data to determine the most suitable approach, ensuring a comprehensive understanding of the dataset. Data cleansing and analysis are fundamental for any data analyst, and utilizing Power BI Query Editor, I refined the dataset, enhancing visualizations with new data points through the creation of computed columns and measures.I also structured the newly created measures by placing them into a distinct table. This organization helps enhance the clarity and manageability of the dataset, especially when dealing with intricate data models or aiming to keep the primary tables focused on raw data.  This process, known as data modeling, involves organizing columns based on relationships. Subsequently, I implemented necessary DAX measures to derive insights for the specified questions, concluding by presenting my findings through visualizations on a dashboard.
+I began by retrieving the dataset from the provided link and thoroughly examined the data to determine the most suitable approach, ensuring a comprehensive understanding of the dataset. Data cleansing and analysis are fundamental for any data analyst, and utilizing Power BI Query Editor, I refined the dataset, enhancing visualizations with new data points through the creation of computed columns and measures.I also structured the newly created measures by placing them into a distinct table which I refer as _Dax Measures_. This organization helps enhance the clarity and manageability of the dataset, especially when dealing with intricate data models or aiming to keep the primary tables focused on raw data.  This process, known as data modeling, involves organizing columns based on relationships. Subsequently, I implemented necessary DAX measures to derive insights for the specified questions, concluding by presenting my findings through visualizations on a dashboard.
  
 ## Modelling
-Because i have supported this data with new tables there was a need to connect them based on relationship.
-The model is a star schemer
+To reduce redundancy and for clarity I grouped my table based on relationship, splitting the data into fact and and dimension tables. This model is a star schemer.
 Model                    |     Calendar-Table
 :-----------------------:|:--------------------------:
 ![](DATAMODEL.png)       |    ![](CALENDARTABLE.png)
